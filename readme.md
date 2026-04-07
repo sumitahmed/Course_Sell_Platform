@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">📚 Course Sell Platform</h1>
+  <h1 align="center">Course Sell Platform</h1>
   <p align="center">
     A full-stack course marketplace where <strong>admins</strong> create &amp; manage courses and <strong>users</strong> browse, purchase &amp; track them.
   </p>
